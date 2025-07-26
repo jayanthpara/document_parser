@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "input_documents": [
+      "South of France - Cuisine.pdf"
+    ],
+    "persona": "Travel Planner",
+    "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
+    "processing_timestamp": "2025-07-26T12:33:08.069208"
+  },
+  "extracted_sections": [
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Conclusion",
+      "importance_rank": 1,
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Introduction",
+      "importance_rank": 2,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Wine Regions and Types of Wines",
+      "importance_rank": 3,
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Famous Dishes",
+      "importance_rank": 4,
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Must-Visit Restaurants",
+      "importance_rank": 5,
+      "page_number": 4
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "Conclusion \nThe South of France oﬀers a rich and diverse culinary landscape that is sure to delight any \nfood lover. From fresh seafood and Provençal dishes to iconic restaurants and unique culinary \nexperiences, there is something for everyone to enjoy. Whether you're savoring a bowl of \nbouillabaisse by the sea, exploring vibrant food markets, or indulging in a Michelin-starred \nmeal, the flavors of this beautiful region will leave a lasting impression. Use this guide to plan \nyour culinary journey and savor the tastes of the South of France, creating memories that will \nlinger long after your trip has ended. Bon appétit!",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "A Culinary Journey Through the South of France \nIntroduction \nThe South of France, known for its stunning landscapes and charming villages, is also a \nparadise for food lovers. The region's cuisine is a delightful blend of Mediterranean flavors, \nfresh ingredients, and traditional recipes passed down through generations. This guide will \ntake you through the diﬀerent types of food, famous dishes, must-visit restaurants, renowned \nwine regions, and the types of wines they produce to help you plan an unforgettable culinary \nadventure.",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "Notable grape varieties \ninclude Grenache, Syrah, Mourvèdre, and Cinsault for reds and rosés, and Rolle \n(Vermentino) and Clairette for whites. Key grape varieties include Carignan, \nGrenache, Syrah, and Mourvèdre for reds, and Picpoul, Marsanne, and Roussanne for \nwhites. Key grape varieties include Malbec (known \nlocally as Côt), Tannat, and Négrette for reds, and Gros Manseng, Petit Manseng, and \nColombard for whites. Key grape varieties include Grenache, Syrah, and \nMourvèdre for reds, and Viognier, Marsanne, and Roussanne for whites. • \nSouth West France (Sud-Ouest): This lesser-known region is home to a variety of \nunique wines made from indigenous grape varieties.",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "Famous Dishes \nThe South of France is home to many iconic dishes that you must try during your visit: \n• \nBouillabaisse: A traditional fish stew from Marseille, made with various types of fish, \nshellfish, and a flavorful broth seasoned with saﬀron and herbs. • \nRatatouille: A vegetable stew made with eggplant, zucchini, bell peppers, tomatoes, \nand onions, seasoned with herbs de Provence. • \nSalade Niçoise: A refreshing salad with tuna, hard-boiled eggs, tomatoes, green beans, \nolives, and anchovies, dressed with olive oil and vinegar. • \nCassoulet: A hearty casserole from the Languedoc region, made with white beans, \nsausage, and duck or pork. • \nTarte Tropézienne: A dessert from Saint-Tropez, consisting of a brioche filled with a \ncreamy mixture of pastry cream and butter.",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "Must-Visit Restaurants \nTo truly experience the culinary delights of the South of France, here are some restaurants \nyou should consider visiting: \n• \nLe Petit Nice Passedat (Marseille): A three-Michelin-starred restaurant oﬀering \nexquisite seafood dishes and stunning views of the Mediterranean. • \nLe Mirazur (Menton): Ranked among the world's best restaurants, Le Mirazur oﬀers a \nunique dining experience with a focus on fresh, local ingredients and innovative \ndishes. • \nLa Chèvre d'Or (Èze): Located in a medieval village, this two-Michelin-starred \nrestaurant serves refined Provençal cuisine with breathtaking views of the French \nRiviera. The \nrestaurant's tasting menu oﬀers a journey through the flavors of Provence, with each \ncourse showcasing the region's finest ingredients. The menu features dishes that pair beautifully with the local wines, creating a \ntruly memorable dining experience.",
+      "page_number": 4
+    }
+  ]
+}

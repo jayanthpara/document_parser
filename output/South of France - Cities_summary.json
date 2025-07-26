@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "input_documents": [
+      "South of France - Cities.pdf"
+    ],
+    "persona": "Travel Planner",
+    "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
+    "processing_timestamp": "2025-07-26T12:33:07.995252"
+  },
+  "extracted_sections": [
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Conclusion",
+      "importance_rank": 1,
+      "page_number": 14
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Toulouse: The Pink City",
+      "importance_rank": 2,
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Language : While French is the oﬃcial language, English is widely spoken in tourist",
+      "importance_rank": 3,
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Perpignan: A Blend of French and Catalan Cultures",
+      "importance_rank": 4,
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "MuCEM (Museum of European and Mediterranean Civilizations) : This modern",
+      "importance_rank": 5,
+      "page_number": 3
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "Conclusion \nThe South of France is home to a diverse array of cities, each with its own unique history, \nculture, and attractions. From the ancient Roman ruins of Arles and Nîmes to the medieval \nfortresses of Carcassonne and Avignon, each city oﬀers a glimpse into the rich heritage of the \nregion. Whether you're exploring the vibrant streets of Marseille, the elegant boulevards of \nAix-en-Provence, or the charming squares of Montpellier, you'll find a wealth of historical \ntreasures and cultural experiences waiting to be discovered. Use this guide to plan your \njourney through the South of France and immerse yourself in the fascinating history and \nculture of this beautiful region.",
+      "page_number": 14
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "Toulouse: The Pink City \nHistory \nToulouse, known as \"La Ville Rose\" (The Pink City) due to its distinctive terracotta buildings, \nis a vibrant city with a rich history. • \nCapitole de Toulouse: The city's town hall and theater, the Capitole, is an impressive \nbuilding with a neoclassical facade. Toulouse's cuisine is also notable, with local \nspecialties such as cassoulet (a hearty bean and meat stew) and foie gras being popular \ndishes. Cultural Highlights \nToulouse is renowned for its vibrant cultural scene, with numerous theaters, music venues, \nand festivals. Toulouse has been a center of learning and \nculture for centuries, with a prestigious university and numerous research institutions.",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "Travel Tips \n• \nBest Time to Visit: The best time to visit the South of France is during the spring (April \nto June) and fall (September to October) when the weather is pleasant, and the tourist \ncrowds are smaller. Overview of the Region \nThe South of France, or \"Le Midi,\" encompasses the regions of Provence-Alpes-Côte d'Azur, \nOccitanie, and parts of Nouvelle-Aquitaine. This area is renowned for its diverse landscapes, \nfrom the sun-drenched beaches of the French Riviera to the rolling vineyards of Provence and \nthe rugged Pyrenees mountains. • \nLanguage: While French is the oﬃcial language, English is widely spoken in tourist \nareas. The South of France is also famous for its \ncuisine, wines, and vibrant cultural scene.",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "Perpignan: A Blend of French and Catalan Cultures \nHistory \nPerpignan, located near the Spanish border, has a unique blend of French and Catalan \ninfluences. • \nPerpignan Cathedral: Also known as the Cathedral of Saint John the Baptist, this \nGothic cathedral was built in the 14th century and features a beautiful cloister and bell \ntower. Cultural Fusion \n• \nFestivals: Emphasize the blend of French and Catalan cultures in the city's festivals, \ncuisine, and traditions. Cultural Highlights \nPerpignan is known for its vibrant cultural scene, with a strong emphasis on Catalan \ntraditions. Key Attractions \n• \nPalace of the Kings of Majorca: This impressive fortress, built in the 13th century, was \nthe residence of the Kings of Majorca.",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "Marseille: The Oldest City in France \nHistory \nMarseille, founded by Greek sailors around 600 BC, is the oldest city in France. Key Attractions \n• \nOld Port (Vieux-Port): The heart of Marseille, the Old Port has been a bustling harbor \nfor over 2,600 years. • \nBasilica of Notre-Dame de la Garde: This iconic basilica, perched on a hill \noverlooking the city, oﬀers panoramic views of Marseille and the Mediterranean Sea. The city hosts several festivals throughout the year, including the Festival de \nMarseille, which celebrates contemporary dance, theater, and music. Marseille's cuisine is \n\nalso a highlight, with dishes like bouillabaisse (a traditional fish stew) and pastis (an anise-\nflavored aperitif) being local favorites.",
+      "page_number": 3
+    }
+  ]
+}
