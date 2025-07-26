@@ -1,0 +1,7 @@
+PyPDF2==3.0.1
+nltk==3.8.1
+scikit-learn==1.4.0
+sumy==0.10.0
+numpy==1.26.4
+PyMuPDF==1.23.7
+
